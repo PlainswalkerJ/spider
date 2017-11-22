@@ -5,4 +5,6 @@ The spider works with phantomJS and you should change the phantomJS address when
 
 To overcome some annoying bugs,the code is not so clear and may be confusing.
 
-MAY NOT UPDATE FOREVER!(but you can take it and use it)
+DPS in excels are string,you need to transform it into number by your excel apps.
+
+MAY NOT UPDATE FOREVER!(but you can take and use it)
